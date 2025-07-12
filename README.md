@@ -31,5 +31,10 @@ Currently, two official plugins are available:
 
 - Utilizes animations powered by framer motion for engaging user experience.
 
+Landing Portfolio Page (Deployed Using Netlify)
+<img width="1905" height="942" alt="image" src="https://github.com/user-attachments/assets/7eec6690-dc50-4d31-a6ea-6d0799eadcde" />
+
+Live Website: https://mydashportfolio.netlify.app/
+
 
 
