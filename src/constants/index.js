@@ -197,58 +197,58 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "ASES-Summit Website",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A Website for my ASES Manila Org a stanford affiliated org, for a summit event in the philippines.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "tailwindcss",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "framermotionjs",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://wavemakerssummit.org/",
     },
     {
-      name: "Job IT",
+      name: "Dash Portfolio",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "My Portfolio made with 3d models using threejs and react",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "threejs",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tailwindcss",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://mydashportfolio.netlify.app/",
     },
     {
-      name: "Trip Guide",
+      name: "TetrisJS_V1",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A simple Tetris Game made with Javascript, I've made many more games.",
       tags: [
         {
-          name: "nextjs",
+          name: "javascript",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "html",
           color: "green-text-gradient",
         },
         {
@@ -257,7 +257,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AdiDash101/TetrisJS_v1",
     },
   ];
   
